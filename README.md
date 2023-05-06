@@ -53,6 +53,7 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) 
+
 Dagim Wallelgene - [Github](https://github.com/Dagwal) / [Twitter](https://twitter.com/Dagwal3)  
 Esther - [Github](https://github.com/3SSI3)
  
